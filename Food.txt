@@ -6,3 +6,6 @@ Diet Routine:
 3.fruits
 4.meat
 5.vegetable
+
+6.fish
+7.crab
