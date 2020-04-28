@@ -4,8 +4,13 @@ Diet Routine:
 1.milk
 2.egg
 3.fruits
+
 4.meat
 5.vegetable
 
 6.fish
 7.crab
+
+ 
+4.completely vegan / non-vege
+
