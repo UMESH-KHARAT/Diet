@@ -1,5 +1,0 @@
-
-Select Junkfood:
-1.burger
-2.pizza
-3.pasta
