@@ -5,3 +5,4 @@ Diet Routine:
 2.egg
 3.fruits
  
+ 4.completely vegan / non-vege
